@@ -6,3 +6,5 @@ This repository contains a set of SQL queries designed to analyze data related t
 # Database Schema
 
 Below is the diagram of the database tables and their relationships:
+
+![MusicDatabaseSchema](https://github.com/user-attachments/assets/9ff51e84-08af-4c4a-894b-45954c398dfc)
