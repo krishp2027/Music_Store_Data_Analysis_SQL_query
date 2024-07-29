@@ -1,6 +1,4 @@
-I understand the formatting needs to be clearer. Here's the corrected section with proper code block formatting:
 
-```markdown
 # Music Store Database
 
 ## Introduction
